@@ -23,13 +23,8 @@ type(a)
 
 a=np.array(a)
 
-
 # In[151]:
-
-
 a
-
-
 # In[152]:
 
 

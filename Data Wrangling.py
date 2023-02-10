@@ -25,7 +25,6 @@ type(a)
 
 # In[150]:
 
-
 a=np.array(a)
 
 

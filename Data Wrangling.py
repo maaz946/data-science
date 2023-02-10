@@ -10,7 +10,7 @@ import statistics as stats
 
 # In[148]:
 
-a=[1,2,3,4]
+a=[1,2,3,4
 
 
 # In[149]:

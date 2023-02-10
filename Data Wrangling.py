@@ -3,16 +3,12 @@
 
 # In[147]:
 
-
-
-
 import pandas as pd
 import numpy as np
 import statistics as stats
 
 
 # In[148]:
-
 
 a=[1,2,3,4]
 
